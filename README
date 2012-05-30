@@ -1,0 +1,4 @@
+Shell script for alerting about the battery status. Run this script in background.
+
+Requirements:
+To run this script you need to install 'ibam'.
